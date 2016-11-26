@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\proyectoEstructuras1\proyectoEstructuras1\bin\Debug\proyectoEstructuras1.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\proyectoEstructuras1\proyectoEstructuras1\bin\Debug\proyectoEstructuras1.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\proyectoEstructuras1\proyectoEstructuras1\bin\Debug\proyectoEstructuras1.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\proyectoEstructuras1\proyectoEstructuras1\obj\Debug\proyectoEstructuras1.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\proyectoEstructuras1\proyectoEstructuras1\obj\Debug\proyectoEstructuras1.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\proyectoEstructuras1\proyectoEstructuras1\obj\Debug\proyectoEstructuras1.pdb
