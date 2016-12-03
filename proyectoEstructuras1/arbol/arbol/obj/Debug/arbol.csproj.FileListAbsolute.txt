@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\arbol\arbol\bin\Debug\arbol.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\arbol\arbol\bin\Debug\arbol.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\arbol\arbol\bin\Debug\arbol.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\arbol\arbol\obj\Debug\arbol.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\arbol\arbol\obj\Debug\arbol.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\arbol\arbol\obj\Debug\arbol.pdb
+D:\arbol\arbol\bin\Debug\arbol.exe.config
+D:\arbol\arbol\obj\Debug\arbol.exe
+D:\arbol\arbol\obj\Debug\arbol.pdb
+D:\arbol\arbol\bin\Debug\arbol.exe
+D:\arbol\arbol\bin\Debug\arbol.pdb
+D:\arbol\arbol\obj\Debug\arbol.csprojResolveAssemblyReference.cache
